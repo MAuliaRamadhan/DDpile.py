@@ -36,7 +36,7 @@ mat = float(input('Muka air tanah (m):'))
 SF_b = float(input('SF B :'))
 SF_s = float(input('SF S :'))
 
-#Input Metode 
+#Input Metode berdasarkan data
 Metode = input('Metode (CPT , NSPT_1, NSPT_2):') 
 
 #Fungsi Luas lingkaran
